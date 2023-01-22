@@ -5,15 +5,18 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone repository. start a new project and upload your images and HTML code,
+
 ### Step 2:
+
+Run the program in the given URL and test the output
 
 ## Code:
 Include your HTML code here
 
 map.html
 
-<!DOCTYPE html>
+,,,<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>My City</title>
@@ -37,11 +40,11 @@ map.html
 </map>
 </center>
 </body>
-</html>
+</html>,,,
 
 rajaji.html
 
-<!DOCTYPE html>
+,,,<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,11 +71,11 @@ rajaji.html
         </font>
     </p>
 </body>
-</html>
+</html>,,,
 
 mandapam.html
 
-<!DOCTYPE html>
+,,,<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -100,13 +103,13 @@ mandapam.html
     </p>
 </body>
 
-</html>
+</html>,,,
 
 
 
 iit.html
 
-<!DOCTYPE html>
+,,,<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>IIT MADRAS</title>
@@ -128,11 +131,11 @@ The campus is located in the city of Chennai, previously known as Madras.
 </font>
 </p>
 </body>
-</html>
+</html>,,,
 
 guindy.html
 
-<!DOCTYPE html>
+,,,<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>GUINDY NATIONAL PARK</title>
@@ -152,7 +155,7 @@ is the 8th-smallest National Park of India and one of the very few national park
 </font>
 </p>
 </body>
-</html>
+</html>,,,
 
 ## Output:
 Include your output screenshot here
