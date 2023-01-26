@@ -1,3 +1,4 @@
+
 # Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
@@ -13,10 +14,9 @@ Run the program in the given URL and test the output
 
 ## Code:
 Include your HTML code here
-
+```
 map.html
-
-,,,<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>My City</title>
@@ -40,7 +40,9 @@ map.html
 </map>
 </center>
 </body>
-</html>,,,
+</html>
+```
+```
 
 rajaji.html
 
@@ -71,7 +73,9 @@ rajaji.html
         </font>
     </p>
 </body>
-</html>,,,
+</html>
+```
+```
 
 mandapam.html
 
@@ -79,37 +83,36 @@ mandapam.html
 <html lang="en">
 
 <head>
-    <title>Gandhi Mandapam</title>
+<title>Gandhi Mandapam</title>
 </head>
 
 <body bgcolor="brown">
-    <h1 align="center">
-        <font color="white"><b>CHENNAI - GUINDY</b></font>
-    </h1>
-    <h3 align="center">
-        <font color="white"><b>Gandhi Mandapam</b></font>
-    </h3>
-    <hr size="3" color="black">
-    <p align="justify">
-        <font face="Tahoma" size="5">
-            <b>
-                Gandhi Mandapam is a series of memorial structures built on Sardar Patel Road, in Adyar, Chennai.
-                The first structure to be built on the premises was a memorial to Mahatma Gandhi, opened by then Chief Minister of Madras, C. Rajagopalachari on 27 January 1956. Later, four other memorials for independence activist Rettamalai Srinivasan and former chief ministers C. Rajagopalachari, K. Kamaraj and M. Bhakthavatsalam were added.
-                Owing to its prominence, the premise is often utilized for public functions, particularly for cultural discourses and music shows.
-                The site also serves as a recreational park in the city.
-                It is located nearby Anna University and IIT Madras.
-            </b>
-        </font>
-    </p>
+<h1 align="center">
+<font color="white"><b>CHENNAI - GUINDY</b></font>
+</h1>
+<h3 align="center">    <font color="white"><b>Gandhi Mandapam</b></font>
+</h3>
+<hr size="3" color="black">
+<p align="justify">
+<font face="Tahoma" size="5">
+<b>
+ Gandhi Mandapam is a series of memorial structures built on Sardar Patel Road, in Adyar, Chennai.
+ The first structure to be built on the premises was a memorial to Mahatma Gandhi, opened by then Chief Minister of Madras, C. Rajagopalachari on 27 January 1956. Later, four other memorials for independence activist Rettamalai Srinivasan and former chief ministers C. Rajagopalachari, K. Kamaraj and M. Bhakthavatsalam were added.
+ Owing to its prominence, the premise is often utilized for public functions, particularly for cultural discourses and music shows.
+ The site also serves as a recreational park in the city.
+It is located nearby Anna University and IIT Madras.
+</b>    </font>
+</p>
 </body>
 
 </html>,,,
+```
+
+```
 
 
 
-iit.html
-
-,,,<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>IIT MADRAS</title>
@@ -131,7 +134,9 @@ The campus is located in the city of Chennai, previously known as Madras.
 </font>
 </p>
 </body>
-</html>,,,
+</html>'''
+```
+```
 
 guindy.html
 
@@ -156,6 +161,7 @@ is the 8th-smallest National Park of India and one of the very few national park
 </p>
 </body>
 </html>,,,
+```
 
 ## Output:
 Include your output screenshot here
